@@ -28,5 +28,9 @@ This script loads the Psalter and the word list and has several functions.
 allowed words in the verse that do not occur in the list. This function has three modes: to return the numbers of verses that match the 
 criteria, to return the texts of verses that meet the criteria, or to return both.
 
+
+### psalter.txt
+For those wishing to sink their teeth in automated searches on the Psalms of the Bible using their own scripts, this file may be a useful starting point. It contains the full Psalter in both Latin and English. It has not been reduced yet, meaning that the chapter/verse numbers are in between curly brackets with spaces around them and the text has capitals, punctuation and characters like æ. You can reduce this file to a regular form for your own needs using regular expressions and a Find/Replace function in e.g. Sublime Text or Visual Studio Code.
+
 ### Future development
 I am not planning right now to develop this further, but obviously a lot more can be done. Feel free to pick up where I left it!
