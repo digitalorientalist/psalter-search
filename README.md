@@ -1,6 +1,7 @@
 # Searching the Psalter with psalter-search!
 
 This repository contains useful resources for those interested to do automated searches on the Psalms of the Bible.
+I have written about it on my blog [here](https://digitalorientalist.com/2017/12/11/tackling-poetry-with-python/) and here.
 
 ### psalterreduced.txt
 This text file contains all the psalms in Latin only, according to a regular pattern: every line contains a line of the psalter, 
@@ -34,3 +35,5 @@ For those wishing to sink their teeth in automated searches on the Psalms of the
 
 ### Future development
 I am not planning right now to develop this further, but obviously a lot more can be done. Feel free to pick up where I left it!
+
+*Laudare, benedicere, prædicare*
